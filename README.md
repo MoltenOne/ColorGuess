@@ -1,11 +1,7 @@
 # Vue 3 + Vite
 
-Steps to run this project:
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-1)cd (this project folder)
+## Recommended IDE Setup
 
-2)npm run dev
-
-(it is located on 127.0.0.1:5173)
-
-To install vite, type npm i vite.
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
