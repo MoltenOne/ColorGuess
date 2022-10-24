@@ -1,7 +1,22 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+To run this project you should install vite 
 
-## Recommended IDE Setup
+$npm i @vitejs/plugin-vue
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+$cd "this project folder"
+
+$npm install
+
+$npm run dev
+
+it is located at http://127.0.0.1:5173/
+
+## Guess Color Game!
+
+My pet project using Vue 3 where you try to find right color
+
+![изображение](https://user-images.githubusercontent.com/54802628/197588266-6129954c-ff83-4986-b301-4c75974401cc.png)
+
+![изображение](https://user-images.githubusercontent.com/54802628/197588308-f9544482-eba4-4374-8442-d48ba3922b15.png)
+
